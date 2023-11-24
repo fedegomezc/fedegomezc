@@ -1,5 +1,5 @@
 # Hello 👋 I'm Federico Gomez Conde
-## Civil Engineer | Web Developer in progress
+## Civil Engineer | Web Developer
 -------
 ## Skills 🛠️
 * HTML
