@@ -6,6 +6,8 @@
 * CSS
 * JavaScript
 * React JS
+* NodeJS
+* MongoDB
 * Python
 * Git y Github
 ------
